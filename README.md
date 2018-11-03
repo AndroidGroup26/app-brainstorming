@@ -16,10 +16,64 @@ Allows students to find groups easily and in real-time while they're on the go, 
 
 ---
 
-### User Stories
-// TODO: Enumerate User Stories
-1. User can...
+### 1. User Stories (Required and Optional)
 
+**Required Must-have Stories**
+
+ * User can login
+ * User can register
+ * User can create a study group
+ * User can create a study group event
+ * User can search for study groups
+ * User can join/leave study groups
+ * User can view events in a calendar
+ 
+
+**Optional Nice-to-have Stories**
+
+ * User can have connections (basically a friends list)
+ * User can add location to event
+ * User can post images to study groups
+ * User can message others
+ 
+
+### 2. Screen Archetypes
+
+ * Login
+     * User can login
+ * Register
+     * User can register an account
+ * Creation
+     * User can create a study group
+     * User can create a study group event
+ * Search
+     * User can search for study groups
+     * User can join/leave study groups
+ * Calendar
+     * User can view events in a calendar
+
+
+
+### 3. Navigation
+
+**Tab Navigation** (Tab to Screen)
+
+ * Home Page - list of current groups, events, search bar
+ * Events & Study Group Actions - creating events, joining or leaving group
+ * Calendar
+
+**Flow Navigation** (Screen to Screen)
+
+ * Login Screen
+     * Home 
+ * Registration Screen
+     * Home
+ * Home Screen
+     * Search Screen
+ * Creation Screen
+     * Home (after creating a group or event)
+ * Search Screen
+     * None
 ---
 
 ### Wireframes
