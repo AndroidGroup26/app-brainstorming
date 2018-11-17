@@ -77,7 +77,11 @@ Allows students to find groups easily and in real-time while they're on the go, 
 ---
 
 ### Wireframes
-// TODO: Add Wireframe Images
+<img src="https://github.com/AndroidGroup26/app-brainstorming/blob/master/Register.png?raw=true" width="250" />
+<img src="https://github.com/AndroidGroup26/app-brainstorming/blob/master/Home%20Screen.png?raw=true" width="250" />
+<img src="https://github.com/AndroidGroup26/app-brainstorming/blob/master/Creation.png?raw=true" width="250" />
+<img src="https://github.com/AndroidGroup26/app-brainstorming/blob/master/Search.png?raw=true" width="250" />
+<img src="http://g.recordit.co/vD8Th260JB.gif" width="250" />
 
 ---
 
